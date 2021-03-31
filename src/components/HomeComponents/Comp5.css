@@ -1,0 +1,95 @@
+
+.comp5-body
+{
+
+  width: 25.5%;
+  background-color: white;
+  margin-top: 9px;
+  margin-left: 13px;
+  height: 184px;
+  background-image: url("Image1.png");
+  background-repeat: no-repeat;
+ 
+}
+
+.profile-icon5
+{
+  margin: 3px;
+  background-color: white;
+  margin-top: 3px;
+}
+.comp5-upper
+{
+  display: flex;
+}
+.newuser-txt5
+{
+ position: relative;
+  font-size: 14px;
+
+  align-items: center;
+  margin-left: 4px;
+  margin-right: 9px;
+
+
+  display: flex;
+  flex: 0.9;
+  align-items: center;
+
+}
+
+
+.comp5-lower
+{
+  margin-left: 8px;
+  display: flex;
+  align-items: center;
+  background-color:  rgb(27, 207, 198);
+  width: 16%;
+  border-radius: 50%;
+  border: 1px white solid;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  height: 60px;
+  flex: 1;
+}
+
+
+
+
+
+.logged-in
+{
+  font-size: 12px;
+  position: relative;
+  bottom: 5%;
+  left: 8%;
+}
+.day-left-num
+{
+  font-size: 11px;
+  color: white;
+  font-weight: 700;
+  text-align: center;
+  margin-left: 9px;
+}
+.day-left{
+  font-size: 9px;
+  text-align: center;
+}
+.upgrade-btn
+{
+  background-color: rgb(255, 14, 155);
+  border: none;
+  border-radius: 40px;
+ 
+color: white;
+font-weight: 600;
+width: 87px;
+height: 22px;
+font-size: 8px;
+margin-top: 5px;
+position: relative;
+top: 23%;
+left: 59%;
+
+}

@@ -1,0 +1,59 @@
+.comp2-body
+{
+  width: 21%;
+  background-color: white;
+  margin-top: 9px;
+  margin-left: 15px;
+  height: 100px;
+}
+.contact-btn
+{
+  background-color: rgb(84, 196, 184);
+  border: none;
+  
+  padding: 5px;
+color: white;
+font-weight: 600;
+width: 50px;
+height: 22px;
+font-size: 11px;
+margin-top: 5px;
+}
+.profile-icon
+{
+  margin: 3px;
+  background-color: white;
+}
+.comp2-upper
+{
+  display: flex;
+}
+.newuser-txt
+{
+ position: relative;
+  font-size: 12px;
+
+  align-items: center;
+  margin-left: 2px;
+  margin-right: 9px;
+margin-top: 9px;
+  font-weight: 600;
+}
+
+.profile-box
+
+{
+  background-color: white;
+}
+.comp2-lower
+{
+  display: flex;
+  align-items: center;
+}
+
+.
+.profile-name
+{
+  color: rgb(85, 81, 81);
+}
+

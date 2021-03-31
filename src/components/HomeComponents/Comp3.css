@@ -1,0 +1,54 @@
+
+
+.comp3-body
+{
+  width: 28%;
+  background-color: white;
+  height: 65vh;
+  margin-top: 10px;
+  margin-left: 13px;
+}
+.icon-dashbo
+{
+  background-color: white;
+  margin: 5px;
+}
+.comp3-upper
+{
+  display: flex;
+  align-items: center;
+
+}
+.howtosell
+{
+  margin-right: 5px;
+}
+.para
+{
+  width: 80%;
+}
+.para1
+{
+  display: flex;
+  align-items: center;
+  width: 95%;
+}
+.ele1
+{
+  width: 75%;
+}
+.day-ago
+{
+  color: grey;
+  font-size: 12px;
+  font-weight: 500;
+}
+p{
+  font-size: 14px;
+  color: rgb(28, 153, 153);
+ 
+}
+.comp3-body{
+
+  margin-bottom: 50px;
+}

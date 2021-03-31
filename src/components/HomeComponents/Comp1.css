@@ -1,0 +1,132 @@
+.comp1-body
+{
+  width: 99.5%;
+  background-color: white;
+  height: 260px;
+  margin-top: 2.5px;
+  display: flex;
+  justify-content: space-between;
+}
+.comp1-left
+{
+  width: 54%;
+}
+.analytics-txt
+{
+  color: rgb(148, 145, 145);
+  font-size: 12px;
+  margin: 9px;
+
+}
+
+
+.calendar
+{
+  display: flex;
+flex: 1;
+margin-left: 20px;
+margin-top: 10px;
+}
+.school-txt
+{
+  margin-top: 6px;
+  margin-left: 2px;
+  font-size: 13px;
+  color: rgb(114, 113, 113);
+  font-weight: 501;
+}
+
+.analytics
+{
+  display: flex;
+  justify-content: space-evenly;
+}
+
+
+
+.chartjs-render-monitor
+{
+  width: 94% !important;
+  height: 220px  !important;
+  margin-left: 20px;
+  margin-top: 0px;
+  
+}
+.new-signups 
+{
+  margin-top: 11px;
+  position: relative;
+  left : 5%
+}
+.custom-select
+{
+  position: relative;
+  left: 7%;
+  margin-top: 12px;
+}
+
+.analytics-txt:hover{
+  color: black;
+  font-weight: 600;
+  cursor: pointer;
+
+}
+hr {
+  height: .19rem;
+  width: 100%;
+  margin: 0;
+  background:rgba(18, 161, 125, 0.71);
+  border: none;
+  transition: .3s ease-in-out;
+}
+
+.comp1-right
+{
+  margin-right: 40px;
+}
+.icon
+{
+  margin-left: 40px;
+  margin-right: 44px;
+  margin-top: 20px;
+  background-color: white;
+}
+.icon-txt
+{
+  font-size: 11px;
+  color: grey;
+  font-weight: 501;
+  margin: 34px;
+}
+.icon-txt2
+{font-size: 18px;
+font-weight: 700;
+margin: 52px;
+color: rgb(26, 23, 23);
+}
+.percent
+{
+  color: grey;
+  font-size: 10px;
+  font-weight: 400;
+}
+.icon-txt3
+{
+  font-size: 18px;
+font-weight: 700;
+margin: 46px;
+color: rgb(26, 23, 23);
+}
+
+.t1 {
+  position: relative;
+  left: 2%;
+}
+.t3{
+  position: relative;
+  left: 5%;
+}
+.t2{
+  position: relative;
+  left: 2%;
+}
