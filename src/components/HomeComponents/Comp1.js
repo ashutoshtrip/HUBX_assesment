@@ -41,7 +41,7 @@ function Comp1()  {
 
 
          <div class="custom-select" >
-  <select>
+  <select className="bg-select">
     <option value="0">last 7 days:</option>
     <option value="1">month ago</option>
     <option value="2">year ago</option>
