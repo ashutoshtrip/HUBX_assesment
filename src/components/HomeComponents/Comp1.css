@@ -61,7 +61,7 @@ margin-top: 10px;
 .custom-select
 {
   position: relative;
-  left: 7%;
+  left: 5%;
   margin-top: 12px;
 }
 
@@ -69,8 +69,11 @@ margin-top: 10px;
   color: black;
   font-weight: 600;
   cursor: pointer;
-
+  border-bottom: 5px solid rgba(18, 161, 125, 0.71);
+  
 }
+
+
 hr {
   height: .19rem;
   width: 100%;
@@ -126,4 +129,13 @@ color: rgb(26, 23, 23);
 .t2{
   position: relative;
   left: 2%;
+}
+
+.bg-select
+{
+  background-color: rgb(165, 165, 165);
+  border-radius: 10px;
+  border: solid 0.5px grey;
+  padding: 2px;
+  color: white;
 }

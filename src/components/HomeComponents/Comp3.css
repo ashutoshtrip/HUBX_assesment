@@ -4,7 +4,7 @@
 {
   width: 28%;
   background-color: white;
-  height: 65vh;
+  height: 55vh;
   margin-top: 10px;
   margin-left: 13px;
 }
@@ -44,11 +44,13 @@
   font-weight: 500;
 }
 p{
-  font-size: 14px;
-  color: rgb(28, 153, 153);
+  font-size: 13px;
+color: #0cbbbb;
+margin: 12px;
  
 }
 .comp3-body{
 
   margin-bottom: 50px;
 }
+

@@ -32,7 +32,7 @@ import "./Comp5.css";
       <div className="comp6-upper">
    
       <PersonIcon  className="profile-icon" fontSize="small" style={ {color:teal[300]}}  />
-      <span className="newuser-txt"> New Users (1) </span>
+      <span className="newuser-txt"> Online Users (1) </span>
     
       </div>
  
