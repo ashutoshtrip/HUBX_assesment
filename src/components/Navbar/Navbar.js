@@ -32,7 +32,7 @@ function Navbar(){
 
     <div className="Preview home page">
       <PowerSettingsNewIcon fontSize="small" />
-      <span className="nav-txt">Preview home page</span> 
+      <span className="nav-txt">View welcome screen</span> 
     </div>
     </div>
     <div className="help">

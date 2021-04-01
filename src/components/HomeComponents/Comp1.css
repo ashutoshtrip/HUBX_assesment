@@ -133,9 +133,9 @@ color: rgb(26, 23, 23);
 
 .bg-select
 {
-  background-color: rgb(165, 165, 165);
-  border-radius: 10px;
-  border: solid 0.5px grey;
-  padding: 2px;
-  color: white;
+  background-color: #cdcccc;
+border-radius: 10px;
+border: .5px solid grey;
+padding: 2px;
+color: black;
 }
