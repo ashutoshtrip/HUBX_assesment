@@ -82,26 +82,27 @@ hr {
 
 .comp1-right
 {
-  margin-right: 40px;
+  margin-right: 10px;
 }
 .icon
 {
-  margin-left: 40px;
-  margin-right: 44px;
+  margin-left: 35px;
+  margin-right: 40px;
   margin-top: 20px;
   background-color: white;
 }
 .icon-txt
 {
-  font-size: 11px;
+  font-size: 10px;
   color: grey;
   font-weight: 501;
-  margin: 34px;
+  margin: 29px;
 }
 .icon-txt2
 {font-size: 18px;
 font-weight: 700;
-margin: 52px;
+margin-left: 49px;
+margin-right: 46px;
 color: rgb(26, 23, 23);
 }
 .percent
@@ -114,14 +115,10 @@ color: rgb(26, 23, 23);
 {
   font-size: 18px;
 font-weight: 700;
-margin: 46px;
+margin: 42px;
 color: rgb(26, 23, 23);
 }
 
-.t1 {
-  position: relative;
-  left: 2%;
-}
 .t3{
   position: relative;
   left: 5%;

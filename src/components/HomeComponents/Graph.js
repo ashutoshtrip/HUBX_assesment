@@ -6,7 +6,7 @@ labels: ['2021-02-03', '2021-02-04', '2021-02-05',
            '2021-02-06', '2021-02-07','2021-02-08','2021-02-09',' '],
   datasets: [
     {
-      label: 'New users',
+      label: '',
       fill: false,
       drawTicks:false,
      
