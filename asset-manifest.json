@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/HUBX_assesment/static/css/main.efcbb5e5.chunk.css",
+    "main.js": "/HUBX_assesment/static/js/main.859c4a22.chunk.js",
+    "main.js.map": "/HUBX_assesment/static/js/main.859c4a22.chunk.js.map",
+    "runtime-main.js": "/HUBX_assesment/static/js/runtime-main.1ffa25e8.js",
+    "runtime-main.js.map": "/HUBX_assesment/static/js/runtime-main.1ffa25e8.js.map",
+    "static/js/2.499cc845.chunk.js": "/HUBX_assesment/static/js/2.499cc845.chunk.js",
+    "static/js/2.499cc845.chunk.js.map": "/HUBX_assesment/static/js/2.499cc845.chunk.js.map",
+    "static/js/3.8f2d6632.chunk.js": "/HUBX_assesment/static/js/3.8f2d6632.chunk.js",
+    "static/js/3.8f2d6632.chunk.js.map": "/HUBX_assesment/static/js/3.8f2d6632.chunk.js.map",
+    "index.html": "/HUBX_assesment/index.html",
+    "static/css/main.efcbb5e5.chunk.css.map": "/HUBX_assesment/static/css/main.efcbb5e5.chunk.css.map",
+    "static/js/2.499cc845.chunk.js.LICENSE.txt": "/HUBX_assesment/static/js/2.499cc845.chunk.js.LICENSE.txt",
+    "static/media/Comp5.css": "/HUBX_assesment/static/media/Image1.996c4e3f.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1ffa25e8.js",
+    "static/js/2.499cc845.chunk.js",
+    "static/css/main.efcbb5e5.chunk.css",
+    "static/js/main.859c4a22.chunk.js"
+  ]
+}
